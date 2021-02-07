@@ -1,4 +1,4 @@
-FROM  java:latest
+FROM  java:8
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
