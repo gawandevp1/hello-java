@@ -1,4 +1,4 @@
-FROM 172.30.1.1:5000/openshift/java
+FROM 172.30.1.1:5000/openshift/java:latest
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
