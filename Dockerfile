@@ -1,4 +1,4 @@
-FROM http://172.30.1.1:5000/v2/java
+FROM registry.access.redhat.com/java
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
