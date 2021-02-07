@@ -1,4 +1,4 @@
-FROM docker.io/java:8
+FROM docker.io/java:latest
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
