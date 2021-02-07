@@ -1,4 +1,4 @@
-FROM docker.io/java:latest
+FROM 172.30.1.1:5000/openshift/java
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
