@@ -1,4 +1,4 @@
-FROM docker.io/java:latest
+FROM http://172.30.1.1:5000/v2/java
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
