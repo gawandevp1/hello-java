@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/java
+FROM java:latest
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
