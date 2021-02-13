@@ -1,4 +1,4 @@
-FROM java:latest
+FROM registry.access.redhat.com/ubi8:latest
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
